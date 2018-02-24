@@ -1,6 +1,6 @@
 ## 2018-Olympics-Ranking
 
-##### View report in nbviewer: http://nbviewer.jupyter.org/url/farazhb.com/data/2018-Olympic-ranker-scraper.ipynb
+##### Alternately view report in nbviewer: http://nbviewer.jupyter.org/url/farazhb.com/data/2018-Olympic-ranker-scraper.ipynb
 
 Run for Web scraping for latest medal counts and rank based on a reasonable scoring scheme
 
