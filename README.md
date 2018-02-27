@@ -8,4 +8,4 @@ Run for Web scraping for latest medal counts and rank based on a reasonable scor
 - 2018-2-18   Updated output for the day and improved the color schemes for the visualizations
 - 2018-2-21   Included written report and updated output of the day. Update for today
 - 2018-2-22   Added reporting time of last update
-- 2018-2-23   Updated output for today
+- 2018-2-26   Updated output for today
